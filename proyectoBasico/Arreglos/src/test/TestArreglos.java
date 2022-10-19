@@ -30,7 +30,7 @@ public class TestArreglos {
         } 
         
         //arreglo con elementos inicializados llamado "sintaxis resumida"
-        String frutas[] = {"Naranja", "Platano", "Uva"} ;
+        String frutas[] = {"Naranjas", "Platano", "Uva"} ;
         //for + tab
         for (int i = 0; i < frutas.length; i++) {
             System.out.println("frutas = " + frutas[i]);
